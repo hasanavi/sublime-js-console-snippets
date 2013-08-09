@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-console.debug('${1:debug message}');
+console.debug(${1:debuginfo});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cond</tabTrigger>
