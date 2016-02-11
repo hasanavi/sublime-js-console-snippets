@@ -23,4 +23,4 @@ It doesn't really matter for sublime where you put the directory unless its unde
 
 ## If you need more information regarding console.... check the following link.
 
-http://www.83rdstasis.net/devtoolsecrets/slides/london-web/#11
+https://developer.chrome.com/devtools/docs/console-api
